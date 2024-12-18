@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Koli</h1>
 <h3 align="center">A passionate Java FullStack Developer</h3>
 
-- 🌱 I’m currently learning **Spring,Springboot,Reactjs,Nodejs,Tailwind css**
+- 🌱 I’m currently learning **Spring, Springboot, Reactjs, Nodejs, Tailwind css**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
