@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Koli</h1>
 <h3 align="center">A passionate Java FullStack Developer</h3>
 
-- 🔭 I’m currently working on **WatchMe (VS Code Extension)**
+- 🔭 I’m currently working on **WatchMe (VS Code Extension - Under Developement phase)**
 
 - 🌱 I’m currently learning **Spring,Springboot,Reactjs,Nodejs,Tailwind css**
 
