@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Koli</h1>
 <h3 align="center">A passionate Java FullStack Developer</h3>
 
-- 🔭 I’m currently working on **WatchMe (VS Code Extension - Under Developement phase)**
+- 🔭 I’m currently working on **WatchMe (VS Code Extension)**
 
 - 🌱 I’m currently learning **Spring,Springboot,Reactjs,Nodejs,Tailwind css**
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Java,Spring,Web Developement,AI-ML**
 
 - 📫 How to reach me **samarth.s.koli@gmail.com**
+
+- 📄 Know about my experiences [https://samarth-koli-portfolio.netlify.app/](https://samarth-koli-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
