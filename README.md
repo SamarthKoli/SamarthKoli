@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samarth.s.koli@gmail.com**
 
-- 📄 Know about my experiences [https://samarth-koli-portfolio.netlify.app/](https://www.samarthkoli.space/)
+- 📄 Know about my experiences [My Portfolio](https://www.samarthkoli.space/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
