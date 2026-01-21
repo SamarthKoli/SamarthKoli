@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthkoli&show_icons=true&locale=en" alt="samarthkoli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthkoli&" alt="samarthkoli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=samarthkoli&" alt="samarthkoli" /></p>
